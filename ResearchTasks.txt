@@ -1,0 +1,9 @@
+Plot quadratic and linear convergence curve - DONE
+
+Vary M and plot that on bar graph
+
+Use different initial condition (using random * scalar)
+
+apply AA to newtons method for first couple iterations
+
+finish 3d problems
